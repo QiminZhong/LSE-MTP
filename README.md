@@ -1,7 +1,7 @@
 
 # Toward Consistent World Models with LSE-MTP
 
-This is the official repository for the paper: **"Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement"**.
+[ACL 2026] Official code for the paper ["Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement"](https://arxiv.org/abs/2604.06155v2).
 
 This project provides a unified framework to train and evaluate Large Language Models (LLMs) on graph-based navigation tasks. It introduces **LSE-MTP**, a method that anchors multi-token predictions to ground-truth latent trajectories to prevent structural hallucinations and foster coherent internal world models.
 
